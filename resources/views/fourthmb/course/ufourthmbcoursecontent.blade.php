@@ -22,7 +22,7 @@
                                     <h3>Fourth MBBS Past Questions</h3>
                                     Click to see more...
                                 </div></a>
-                            <a href="{{url('/#', [$courseid])}}"><div class="col-lg-4  well" style="padding:4%; border-bottom: 1px solid #0091B2">
+                            <a href="{{url('/viewvideo')}}"><div class="col-lg-4  well" style="padding:4%; border-bottom: 1px solid #0091B2">
                                 <h3>Fourth MBBS Videos</h3>
                                 Click to see more...
                             </div></a>

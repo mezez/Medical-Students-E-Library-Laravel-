@@ -87,10 +87,10 @@
 
                             <ul class="dropdown-menu" role="menu">
                                 <li>
-                                    <a href="{{ url('/add_secmbcourse') }}">Add Second DBS Course</a>
-                                    <a href="{{ url('/add_thirdmbcourse') }}">Add Third DBS Course</a>
-                                    <a href="{{ url('/add_fourthmbcourse') }}">Add Fourth DBS Course</a>
-                                    <a href="{{ url('/add_fifthmbcourse') }}">Add Fifth DBS Course</a>
+                                    <a href="{{ url('/add_secmbcourse') }}">Add Second BDS Course</a>
+                                    <a href="{{ url('/add_thirdmbcourse') }}">Add Third BDS Course</a>
+                                    <a href="{{ url('/add_fourthmbcourse') }}">Add Fourth BDS Course</a>
+                                    <a href="{{ url('/add_fifthmbcourse') }}">Add Fifth BDS Course</a>
 
                                     <form id="logout-form" action="{{ url('/admin_logout') }}" method="POST" style="display: none;">
                                         {{ csrf_field() }}

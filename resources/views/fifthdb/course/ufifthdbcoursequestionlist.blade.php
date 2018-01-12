@@ -11,7 +11,7 @@
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="panel panel-default">
-                    <div class="panel-heading">Fifth DBS Course Past Questions</div>
+                    <div class="panel-heading">Fifth BDS Course Past Questions</div>
                     <div class="panel-body">
                         @if($questions != null)
                             @foreach ($questions as $question)

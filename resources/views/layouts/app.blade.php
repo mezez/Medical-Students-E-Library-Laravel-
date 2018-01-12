@@ -93,7 +93,7 @@
 
 
                                 <ul  class="nav navbar-nav navbar-right">
-                                    <li><a href="{{ route('dnotes') }}">DBS Materials</a></li>
+                                    <li><a href="{{ route('dnotes') }}">BDS Materials</a></li>
 
                                 </ul>
                             </li>

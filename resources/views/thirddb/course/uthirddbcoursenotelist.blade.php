@@ -11,7 +11,7 @@
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="panel panel-success">
-                    <div class="panel-heading">Third DBS Course Notes</div>
+                    <div class="panel-heading">Third BDS Course Notes</div>
                     <div class="panel-body">
                         @if($notes != null)
                             @foreach ($notes as $note)<div class="well">

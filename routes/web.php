@@ -13,6 +13,15 @@
 
 Auth::routes();
 
+//add video
+Route::get('/addvideo', function(){
+    return redirect('https://www.youtube.com/channel/UCKXjJxY4Xpn_Ne2PhhuCt7A');
+}
+)->name('addvideo');
+//view video
+Route::get('/viewvideo' , function(){
+    return redirect('https://www.youtube.com/channel/UCKXjJxY4Xpn_Ne2PhhuCt7A');})->name('viewvideo');
+
 //routes related to fifth dbs pastquestions controller
 Route::get('/fifthdbcoursequestionedit/{id}/{courseid}', 'FifthDbPastQuestionController@edit')->name('fifthdbcoursequestionedit');
 Route::get('/fifthdbcoursequestiondelete/{id}/{courseid}', 'FifthDbPastQuestionController@delete')->name('fifthdbcoursequestiondelete');

@@ -11,7 +11,7 @@
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="panel panel-success">
-                    <div class="panel-heading">Fifth DBS Course Notes &nbsp;&nbsp;&nbsp; <li><a href="{{route('daddfifthcoursenote',[$courseid])}}"><h4>Add new note to current course</h4</a> </li> </div>
+                    <div class="panel-heading">Fifth BDS Course Notes &nbsp;&nbsp;&nbsp; <li><a href="{{route('daddfifthcoursenote',[$courseid])}}"><h4>Add new note to current course</h4</a> </li> </div>
                     <div class="panel-body">
                         @if($notes != null)
                             @foreach ($notes as $note)<div class="well">

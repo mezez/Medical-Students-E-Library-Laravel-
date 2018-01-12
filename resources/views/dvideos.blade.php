@@ -10,7 +10,8 @@
                     <div class="panel-body">
                         <h3>Welcome To Dental videos Section.</h3>
                         <br>
-                        Here you can get all the videos for the different dbbs levels for dental students
+                        Here you can get all the videos for the different bds levels for dental students
+                        Cl
                     </div>
                 </div>
             </div>

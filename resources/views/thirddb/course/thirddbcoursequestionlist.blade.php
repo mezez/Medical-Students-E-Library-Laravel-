@@ -11,7 +11,7 @@
             <div class="col-md-8 col-md-offset-2">
 
                 <div class="panel panel-default">
-                    <div class="panel-heading">Third DBS Course Past Questions &nbsp;&nbsp;&nbsp; <li><a href="{{route('daddthirdcoursequestion',[$courseid])}}"><h4>Add new past questions to current course</h4</a> </li> </div>
+                    <div class="panel-heading">Third BDS Course Past Questions &nbsp;&nbsp;&nbsp; <li><a href="{{route('daddthirdcoursequestion',[$courseid])}}"><h4>Add new past questions to current course</h4</a> </li> </div>
                     <div class="panel-body">
                         @if($questions != null)
                             @foreach ($questions as $question)

@@ -10,7 +10,7 @@
                     <div class="panel-body">
                         <h3>Welcome To Dental past questions Section.</h3>
                         <br>
-                        Here you can get all the past questions for the different dbbs levels for medical students
+                        Here you can get all the past questions for the different bds levels for medical students
                     </div>
                 </div>
             </div>
